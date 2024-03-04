@@ -1,0 +1,6 @@
+{
+  "name": "OpenVPN Tray",
+  "description": "OpenVPN Tray",
+  "uuid": "openvpn-tray@dr-shakya.github.com",
+  "shell-version": ["45"]
+}
