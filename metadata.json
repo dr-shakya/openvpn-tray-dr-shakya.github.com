@@ -1,6 +1,9 @@
 {
-  "name": "OpenVPN Tray",
-  "description": "OpenVPN Tray",
+  "name": "OpenVPN Tray Indicator",
+  "description": "Show a tray icon when OpenVPN is connect using terminal command",
   "uuid": "openvpn-tray@dr-shakya.github.com",
-  "shell-version": ["45"]
+  "shell-version": [
+    "45",
+    "46"
+  ]
 }
